@@ -7,4 +7,4 @@ http://cwandt.com/#roto-jam
 
 
 BOM at
-http://bit.ly/roto-jam-bom
+http://bit.ly/rotojam-bom
